@@ -8,10 +8,9 @@ A administration program for huge parks like Disney, etc.
 ```bash
 [~]         $ git clone https://github.com/Therocyn/park-hotel
 ```
-3. From now, you can either use JDK own compiler or an IDE (personally i like using Eclipse IDE) to run the exercises.
-4. The path of the main class of the program is: ```./park-hotel/src/aplicacao/Aplicacao.java```
-5. From now, you can either use JDK own compiler or an IDE (personally i like using Eclipse IDE) to run the exercises.
-6. If you want to see the code, you can open the ```.java``` files using a text editor.
+3. The path of the main class of the program is: ```./park-hotel/src/aplicacao/Aplicacao.java```
+4. From now, you can either use JDK own compiler or an IDE (personally i like using Eclipse IDE) to run the exercises.
+5. If you want to see the code, you can open the ```.java``` files using a text editor.
 
 ## Contributing
 Pull requests are welcome.

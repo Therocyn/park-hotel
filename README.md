@@ -1,10 +1,17 @@
 # PARKHOTEL
-This was my first "real" project using Java for my course of OOP, we(me and my college friends) tried to make a administration program for an huge park like Disney, etc. Actually the funcionalities of the program are pretty basics but it worked fine as an exercise.
+A administration program for huge parks like Disney, etc.
 
-## Making the program work
-The easiest way to make the program run is by downloading [VS Code](https://code.visualstudio.com/download), installing it and adding the  [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) on it.
-After that you can download the full repository and put it on your VSCode Workspace and try to run the "src/Aplicacao.java" as the main method.
-If you have some doubt you can enter in contact with me. This is a initial upload of the project so later i will put more work on it and in this "README".
+## Compilation Instructions
+
+1. To run the code you need to download the [Java JDK](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html).
+2. Clone the repository:
+```bash
+[~]         $ git clone https://github.com/Therocyn/park-hotel
+```
+3. From now, you can either use JDK own compiler or an IDE (personally i like using Eclipse IDE) to run the exercises.
+4. The path of the main class of the program is: ```./park-hotel/src/aplicacao/Aplicacao.java```
+5. From now, you can either use JDK own compiler or an IDE (personally i like using Eclipse IDE) to run the exercises.
+6. If you want to see the code, you can open the ```.java``` files using a text editor.
 
 ## Contributing
 Pull requests are welcome.

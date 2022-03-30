@@ -1,7 +1,7 @@
 # PARKHOTEL
 A administration program for huge parks like Disney, etc.
 
-## Compilation Instructions
+## Compilation Instructions 💿
 
 1. To run the code you need to download the [Java JDK](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html).
 2. Clone the repository:

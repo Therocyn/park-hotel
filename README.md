@@ -1,5 +1,5 @@
 # PARKHOTEL
-A administration program for huge parks like Disney, etc.
+A administration software for huge parks like Disney, etc.
 
 ## Compilation Instructions 💿
 
